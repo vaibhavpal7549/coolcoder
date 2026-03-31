@@ -1,6 +1,6 @@
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20Coder!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=F75C7E&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=%E2%9A%A1+Where+bugs+are+features+in+disguise;%F0%9F%8E%AF+Turning+caffeine+into+code+since+forever;%F0%9F%94%A5+90+days+of+relentless+DSA+mastery;%E2%9D%84%EF%B8%8F+Winter+is+here...+so+is+greatness!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=F75C7E&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=%E2%9A%A1+Where+bugs+are+features+in+disguise;%F0%9F%8E%AF+Turning+caffeine+into+code+since+forever;%E2%9D%84%EF%B8%8F+Winter+is+here...+so+is+greatness!" alt="Typing SVG" />
 <br>
 <h1>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="35px" />
